@@ -36,10 +36,6 @@ The Auto-Location Web Project offers:
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-To run this project locally, ensure you have a modern browser (Chrome, Firefox, etc.).
-
 ### How to Use
 
 1. Clone the repository:

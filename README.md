@@ -41,4 +41,4 @@ The Auto-Location Web Project offers:
 1. Clone the repository:
    ```bash
    git clone https://github.com/adam-ben-rhaiem/Auto_Location.git
-   cd Auto_Location/Web\ project
+   cd Auto_Location
